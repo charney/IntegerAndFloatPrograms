@@ -18,3 +18,5 @@ int_little_endian.c: Prints the integer in the local machine's byte order.
 
 int_search.c: Searchs through paired numbers (in the case of the homework an integer of a zipcode, and an integer for population)
 Reads the file, then prints the highest integer for population, the lowest integer for population, and the average population.
+
+MAKEFILE: Compiles all programs by default, with ability to remove and tar them.
